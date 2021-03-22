@@ -52,7 +52,6 @@ def index():
 
     disaster_names=disaster_counts.index
     # create visuals
-    # TODO: Below is an example - modify to create your own visuals
     graphs = [
         {
             'data': [
